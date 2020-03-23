@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "moduleResolution": "node",
+      "jsx": "react",
+      "jsxFactory": "h",
+      "baseUrl": "./src",
+      "paths": {
+        "~*": ["./*"]
+      }
+    },
+    "include": ["src/**/*"]
+  }
