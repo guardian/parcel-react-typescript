@@ -1,6 +1,6 @@
-  
+
 /** @jsx jsx */
-import { jsx } from '@emotion/core'
+import { jsx } from '@emotion/react'
 
 const Page = () => (
   <div css={{fontSize: '100px'}}>
